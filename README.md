@@ -52,3 +52,8 @@ Use media queries for more screen sizes, such as a tablet.
 Use colors that work well together.
 Use external libraries like Google Fonts to add extra CSS to your website.
 Use a more complex form with many different types of input fields.
+
+
+![Screen Shot 2023-10-26 at 19 43 30](https://github.com/jomeesters/finalhackathonversion/assets/112581270/d0e5b60d-1e20-447f-982e-d5e248ad846d)
+
+https://jomeesters.netlify.app
